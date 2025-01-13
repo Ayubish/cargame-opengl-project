@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1734360373 source:c:\users\csec astu\desktop\racegame\main.cpp
+	<bits/stdc++.h>
+	<GL/glut.h>
+
+1733811817 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1733811817 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1735821422 source:c:\users\9\desktop\racegame\main.cpp
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<iostream>
+	"stb_image.h"
+
+1735662326 c:\users\9\desktop\racegame\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
